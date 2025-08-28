@@ -12,11 +12,11 @@ Visualizes national & state-level trends
 
 📊 Sample Results
 ---
-BJP: ~280–290 seats
+BJP: ~220–250 seats
 
-INC: ~90–100 seats
+INC: ~20–40 seats
 
-AITC: ~30–32 seats
+AITC: ~20–32 seats
 
 DMK: ~25–27 seats
 
